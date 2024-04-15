@@ -1,8 +1,9 @@
-# Magnolia_chat_App
+   # Magnolia_chat_App
 
 HOSTED :- http://localhost:5173/
 
 <- Real-Time Chat App ->
+
 Welcome to our Real-Time Chat App project! This project is built using React for the frontend, Node.js for the backend, and ChatEngine.io as the API for managing real-time chat functionality.
 
 1.  Getting Started
